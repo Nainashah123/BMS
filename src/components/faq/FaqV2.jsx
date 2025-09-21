@@ -18,7 +18,7 @@ const FaqV2 = () => {
                                         <h2>Questions & Answers</h2>
                                     </div>
                                     <div className="faq-discripition">
-                                        <p>Get answers to common questions about our Building Management Systems, implementation process, maintenance services, and support options. Our BMS solutions are designed to optimize your building's performance and efficiency.</p>
+                                        <p>Get answers to common questions about our Building Management Systems, implementation process, maintenance services, and support options. Our BMS solutions are designed to optimize your building&apos;s performance and efficiency.</p>
                                     </div>
                                 </div>
                                 <div className="tab_container animate__animated animate__slideInUp">

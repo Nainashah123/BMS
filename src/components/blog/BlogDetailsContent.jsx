@@ -51,7 +51,7 @@ const BlogDetailsContent = ({ blogInfo }) => {
                                         </div>
                                         <div className="blog-details-discription">
                                             <p>NexSys Technologies LLC delivers cutting-edge building management solutions that revolutionize how buildings operate. Our comprehensive BMS services include advanced HVAC automation, smart lighting control systems, integrated security management, and energy optimization solutions that help buildings achieve maximum efficiency and sustainability.</p>
-                                            <p>With expertise in Tridium's Niagara Framework and JACE controllers, we provide secure remote building management capabilities through cloud-based platforms. Our solutions integrate seamlessly with existing building infrastructure to create intelligent, connected environments that adapt to occupant needs while minimizing energy consumption.</p>
+                                            <p>With expertise in Tridium&apos;s Niagara Framework and JACE controllers, we provide secure remote building management capabilities through cloud-based platforms. Our solutions integrate seamlessly with existing building infrastructure to create intelligent, connected environments that adapt to occupant needs while minimizing energy consumption.</p>
                                         </div>
                                     </div>
                                 </div>

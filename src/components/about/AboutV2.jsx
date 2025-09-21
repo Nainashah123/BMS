@@ -14,7 +14,7 @@ const AboutV2 = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="about-thumb style-two animate__animated animate__slideInUp">
                                 <Image src={about2Thumb} alt="image" />
-                                    <div className="about-counter">
+                                <div className="about-counter">
                                         <div className="about-numbar">
                                             <h4 className="counter"><CountUp end={5} enableScrollSpy /></h4>
                                             <span>+</span>

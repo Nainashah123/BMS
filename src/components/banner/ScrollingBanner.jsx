@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 const ScrollingBanner = () => {
     const bannerData = [
@@ -56,9 +57,11 @@ const ScrollingBanner = () => {
                                 {bannerData.map((item, index) => (
                                     <div key={item.id} className="scrolling-banner-item">
                                         <div className="banner-image">
-                                            <img 
+                                            <Image 
                                                 src={item.image} 
                                                 alt={item.title}
+                                                width={400}
+                                                height={300}
                                                 style={{
                                                     width: '100%',
                                                     height: '100%',
@@ -78,9 +81,11 @@ const ScrollingBanner = () => {
                                 {bannerData.map((item, index) => (
                                     <div key={`duplicate-${item.id}`} className="scrolling-banner-item">
                                         <div className="banner-image">
-                                            <img 
+                                            <Image 
                                                 src={item.image} 
                                                 alt={item.title}
+                                                width={400}
+                                                height={300}
                                                 style={{
                                                     width: '100%',
                                                     height: '100%',

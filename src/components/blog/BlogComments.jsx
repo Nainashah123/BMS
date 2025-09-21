@@ -41,7 +41,7 @@ const BlogComments = () => {
                                             </div>
                                         </div>
                                         <div className="content-main">
-                                            <p>Excellent article on BMS automation! NexSys Technologies LLC has been our trusted partner for building management systems. Their Niagara Framework implementation reduced our energy costs by 25% and improved our building's operational efficiency significantly. Highly recommend their services!</p>
+                                            <p>Excellent article on BMS automation! NexSys Technologies LLC has been our trusted partner for building management systems. Their Niagara Framework implementation reduced our energy costs by 25% and improved our building&apos;s operational efficiency significantly. Highly recommend their services!</p>
                                         </div>
                                     </div>
                                 </div>
