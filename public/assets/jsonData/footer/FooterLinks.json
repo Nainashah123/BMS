@@ -1,0 +1,35 @@
+{
+    "title": "Useful Links",
+    "linkData": [
+        {
+            "id": 1,
+            "linkText": " News & Media",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "linkText": " Technology Solutions",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/services"
+        },
+        {
+            "id": 3,
+            "linkText": " About Our Expertise",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/about"
+        },
+        {
+            "id": 4,
+            "linkText": " Our Projects",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/projects"
+        },
+        {
+            "id": 5,
+            "linkText": " Contacts",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/contact"
+        }
+    ]
+}

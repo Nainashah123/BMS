@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=65&h=65&fit=crop",
+        "titleFirst": "Smart Building",
+        "titleLast": "Automation",
+        "icon": "bi bi-arrow-up-right"
+    },
+    {
+        "id": 2,
+        "activeClass": "active",
+        "featureNumber": "two",
+        "thumb": "https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=65&h=65&fit=crop",
+        "titleFirst": "Energy",
+        "titleLast": "Optimization",
+        "icon": "bi bi-arrow-up-right"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=65&h=65&fit=crop",
+        "titleFirst": "24/7 System",
+        "titleLast": "Monitoring",
+        "icon": "bi bi-arrow-up-right"
+    }
+]

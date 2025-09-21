@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "accordionId": "headingOne",
+        "dataBsTarget": "collapseOne",
+        "title": "What BMS services does NexSys Technologies provide?",
+        "activeClass": "show",
+        "bodyTitle": "What BMS services does NexSys Technologies provide?",
+        "bodyText": "We provide comprehensive Building Management System solutions including HVAC control, lighting automation, energy management, security integration, fire safety systems, and IoT-based smart building technologies. Our services cover design, installation, commissioning, and ongoing maintenance.",
+        "btnClass": "",
+        "ariaExpanded": "true"
+    },
+    {
+        "id": 2,
+        "accordionId": "headingTwo",
+        "dataBsTarget": "collapseTwo",
+        "title": "How long does BMS implementation take?",
+        "activeClass": "",
+        "bodyTitle": "How long does BMS implementation take?",
+        "bodyText": "Implementation timeline varies based on building size and complexity. Typically, small to medium buildings take 2-4 weeks, while large commercial complexes may require 6-12 weeks. We provide detailed project timelines during the initial consultation phase.",
+        "btnClass": "collapsed",
+        "ariaExpanded": "false"
+    },
+    {
+        "id": 3,
+        "accordionId": "headingThree",
+        "dataBsTarget": "collapseThree",
+        "title": "Do you provide ongoing maintenance and support?",
+        "activeClass": "",
+        "bodyTitle": "Do you provide ongoing maintenance and support?",
+        "bodyText": "Yes, we offer comprehensive maintenance packages including 24/7 monitoring, preventive maintenance, emergency support, system updates, and performance optimization. Our support team ensures your BMS operates at peak efficiency year-round.",
+        "btnClass": "collapsed",
+        "ariaExpanded": "false"
+    },
+    {
+        "id": 4,
+        "accordionId": "headingFour",
+        "dataBsTarget": "collapseFour",
+        "title": "How much do BMS solutions cost?",
+        "activeClass": "",
+        "bodyTitle": "How much do BMS solutions cost?",
+        "bodyText": "BMS costs vary depending on building size, system complexity, and specific requirements. We offer customized solutions to fit each client's budget and needs. Contact us for a free consultation and detailed quote tailored to your project.",
+        "btnClass": "collapsed",
+        "ariaExpanded": "false"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "sliderClass": "one",
+        "thumb": "https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+        "animation": "animate__animated animate__slideInLeft",
+        "subTitle": "NexSys Technologies LLC",
+        "title1": "Smart Building",
+        "title2": "Management Solutions",
+        "text": "Founded in 2025, we deliver innovative, high-quality, and economically oriented integrated building management solutions for modern facilities.",
+        "btnText": "Learn More",
+        "btnIcon": "bi bi-arrow-up-right-circle-fill"
+    },
+    {
+        "id": 2,
+        "sliderClass": "two",
+        "thumb": "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+        "animation": "animate__animated animate__slideInLeft",
+        "subTitle": "Advanced BMS Technology",
+        "title1": "Intelligent Building",
+        "title2": "Automation Systems",
+        "text": "Comprehensive HVAC control, energy management, and smart building technologies designed to optimize performance and reduce operational costs.",
+        "btnText": "Get Quote",
+        "btnIcon": "bi bi-arrow-up-right-circle-fill"
+    }
+]

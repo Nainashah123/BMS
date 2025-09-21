@@ -1,0 +1,107 @@
+{
+    "subTitle": "BMS PROJECTS",
+    "title": "Building Management System",
+    "title2": "Success Stories",
+    "projectData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "",
+            "thumb": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "title": "Taj Hotel Dubai",
+            "subTitle": "Luxury Hospitality Management",
+            "icon": "bi bi-arrow-right",
+            "description": "Premium building management system for Taj Hotel Dubai featuring advanced guest comfort automation and energy optimization."
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "two mt-60",
+            "thumb": "/assets/images/about/dome-tower.jpg",
+            "title": "Dome Residential Tower",
+            "subTitle": "Premium Residential BMS",
+            "icon": "bi bi-arrow-right",
+            "description": "Advanced building management system for luxury residential tower in Dubai featuring smart home automation and energy efficiency."
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "three",
+            "thumb": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "title": "Nexsys Downtown Dubai",
+            "subTitle": "Mixed-Use Development BMS",
+            "icon": "bi bi-arrow-right",
+            "description": "A mixed-use development combining work, living, and leisure in a single architectural statement with integrated BMS."
+        },
+        {
+            "id": 4,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "four",
+            "thumb": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "title": "Nexsys Abu Dhabi",
+            "subTitle": "Landmark Office Complex",
+            "icon": "bi bi-arrow-right",
+            "description": "A landmark office complex merging innovation, sustainability, and architectural excellence in Abu Dhabi."
+        },
+        {
+            "id": 5,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "five mt-60",
+            "thumb": "/assets/images/about/Nation-Tower.jpeg",
+            "title": "Nation Tower & Nation Riviera",
+            "subTitle": "Twin Tower Complex",
+            "icon": "bi bi-arrow-right",
+            "description": "Modern twin tower complex featuring advanced BMS integration with glass and steel architecture for optimal building performance."
+        },
+        {
+            "id": 7,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "seven",
+            "thumb": "https://images.pexels.com/photos/2603464/pexels-photo-2603464.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+            "title": "Data Center Management",
+            "subTitle": "Critical Infrastructure",
+            "icon": "bi bi-arrow-right",
+            "description": "High-precision environmental control system for data center with redundant monitoring and cooling management."
+        },
+        {
+            "id": 8,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "eight mt-60",
+            "thumb": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+            "title": "Hotel & Resort BMS",
+            "subTitle": "Guest Comfort Systems",
+            "icon": "bi bi-arrow-right",
+            "description": "Hospitality-focused building management with guest room automation and facility optimization for 5-star resort."
+        },
+        {
+            "id": 10,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "ten",
+            "thumb": "https://images.pexels.com/photos/1544947/pexels-photo-1544947.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+            "title": "Airport Terminal BMS",
+            "subTitle": "Public Safety Systems",
+            "icon": "bi bi-arrow-right",
+            "description": "Mission-critical building management for international airport with security integration and passenger comfort systems."
+        },
+        {
+            "id": 11,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "eleven mt-60",
+            "thumb": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+            "title": "Sports Complex BMS",
+            "subTitle": "Event Management Systems",
+            "icon": "bi bi-arrow-right",
+            "description": "Multi-venue sports facility with dynamic environmental control for different sports and spectator areas."
+        },
+        {
+            "id": 12,
+            "animation": "animate__animated animate__slideInUp",
+            "projectClass": "twelve",
+            "thumb": "https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop",
+            "title": "Mixed-Use Development",
+            "subTitle": "Integrated Urban Systems",
+            "icon": "bi bi-arrow-right",
+            "description": "Comprehensive BMS for mixed-use development combining residential, commercial, and retail spaces with unified control."
+        }
+    ]
+}

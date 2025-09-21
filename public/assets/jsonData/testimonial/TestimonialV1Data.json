@@ -1,0 +1,47 @@
+{
+    "subTitle": "TESTIMONIALS",
+    "title": "Our Happy Clients",
+    "title2": "Says About Us",
+    "testimonialData": [
+        {
+            "id": 1,
+            "testimonialClass": "",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=60&h=60&fit=crop",
+            "name": "David Johnson",
+            "designation": "Facilities Manager",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 2,
+            "testimonialClass": "mt-180",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=60&h=60&fit=crop",
+            "name": "Sarah Wilson",
+            "designation": "Building Operations Director",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 3,
+            "testimonialClass": "",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=60&h=60&fit=crop",
+            "name": "Michael Chen",
+            "designation": "Property Manager",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 4,
+            "testimonialClass": "mt-180",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=60&h=60&fit=crop",
+            "name": "Emily Rodriguez",
+            "designation": "Smart Building Coordinator",
+            "text": "Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate",
+            "icon": "testi-icon.png"
+        }
+    ]
+}

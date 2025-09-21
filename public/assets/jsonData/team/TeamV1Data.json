@@ -1,0 +1,33 @@
+{
+    "subTitle": "OUR TEAM",
+    "title1": "Meet Our Expert BMS",
+    "title2": "Professionals",
+    "teamData": [
+        {
+            "id": 1,
+            "thumb": "founder.jpeg",
+            "icon": "bi bi-plus-lg",
+            "name": "Naina Shah",
+            "designation": "Founder",
+            "singleTeamClass": "",
+            "education": "2016: RGPV Bhopal India, Bachelor of Engineering",
+            "bio": "Founded Nexsys Technologies LLC in 2025 with a vision to create innovative and scalable software solutions. As a passionate developer and tech enthusiast, she leads the company with a focus on quality, creativity, and user-driven design."
+        },
+        {
+            "id": 2,
+            "thumb": "CTO.jpeg",
+            "icon": "bi bi-plus-lg",
+            "name": "Om Prakash Shah",
+            "designation": "Co-Founder & CTO",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 3,
+            "thumb": "GeneralManger.jpeg",
+            "icon": "bi bi-plus-lg",
+            "name": "Devraj Ghimire",
+            "designation": "General Manager",
+            "singleTeamClass": ""
+        }
+    ]
+}

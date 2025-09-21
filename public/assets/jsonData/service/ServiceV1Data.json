@@ -1,0 +1,49 @@
+{
+    "subTitle": "WHAT WE DO",
+    "title1": "Professional Services For",
+    "title2": "Technology & Maintenance",
+    "serviceData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=340&h=420&fit=crop", 
+            "thumb2": "https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=350&h=220&fit=crop", 
+            "thumbIcon": "service-icon.png",
+            "thumbIcon2": "sercve-icon1.png",
+            "title": "BMS Integration",
+            "text": "Comprehensive building maintenance services including HVAC, electrical, and plumbing",
+            "text2": "Professional maintenance solutions to keep your facilities running smoothly",
+            "btnIcon": "bi bi-arrow-right",
+            "btnText": "Read More",
+            "sideTitle": "Building Maintenance"
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=340&h=420&fit=crop", 
+            "thumb2": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=350&h=220&fit=crop", 
+            "thumbIcon": "service-icon.png",
+            "thumbIcon2": "sercve-icon2.png",
+            "title": "HVAC Systems",
+            "text": "Custom software solutions, web applications, and mobile app development",
+            "text2": "Cutting-edge technology solutions tailored to your business needs",
+            "btnIcon": "bi bi-arrow-right",
+            "btnText": "Read More",
+            "sideTitle": "Software Development"
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=340&h=420&fit=crop", 
+            "thumb2": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=350&h=220&fit=crop", 
+            "thumbIcon": "service-icon.png",
+            "thumbIcon2": "sercve-icon3.png",
+            "title": "Smart Building Control",
+            "text": "Complete facility management services including security, cleaning, and operations",
+            "text2": "Integrated facility solutions to optimize your building operations",
+            "btnIcon": "bi bi-arrow-right",
+            "btnText": "Read More",
+            "sideTitle": "Facility Management"
+        }
+    ]
+}

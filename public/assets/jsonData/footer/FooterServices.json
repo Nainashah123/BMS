@@ -1,0 +1,35 @@
+{
+    "title": "Our Services",
+    "serviceData": [
+        {
+            "id": 1,
+            "serviceText": " BMS Services",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/services"
+        },
+        {
+            "id": 2,
+            "serviceText": " Software Development",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/services"
+        },
+        {
+            "id": 3,
+            "serviceText": " Building Maintenance",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/services"
+        },
+        {
+            "id": 4,
+            "serviceText": " IT Consulting",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/services"
+        },
+        {
+            "id": 5,
+            "serviceText": " Digital Solutions",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/services"
+        }
+    ]
+}

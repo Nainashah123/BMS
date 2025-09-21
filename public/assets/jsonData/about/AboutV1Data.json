@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "thumb": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=35&h=35&fit=crop",
+        "title": "System Integration",
+        "text": "Comprehensive BMS solutions integrating HVAC, lighting, security, and energy management systems."
+    },
+    {
+        "id": 2,
+        "thumb": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=35&h=35&fit=crop",
+        "title": "Smart Technology",
+        "text": "Advanced automation and IoT integration for intelligent building management and optimization."
+    }
+]

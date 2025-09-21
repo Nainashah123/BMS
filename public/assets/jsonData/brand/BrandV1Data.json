@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "brandThumb": "https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 2,
+        "brandThumb": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 3,
+        "brandThumb": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 4,
+        "brandThumb": "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 5,
+        "brandThumb": "https://images.pexels.com/photos/374023/pexels-photo-374023.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 6,
+        "brandThumb": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 7,
+        "brandThumb": "https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 8,
+        "brandThumb": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 9,
+        "brandThumb": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 10,
+        "brandThumb": "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 11,
+        "brandThumb": "https://images.pexels.com/photos/374023/pexels-photo-374023.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    },
+    {
+        "id": 12,
+        "brandThumb": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=274&h=94&fit=crop"
+    }
+]

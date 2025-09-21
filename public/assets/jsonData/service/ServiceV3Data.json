@@ -1,0 +1,87 @@
+{
+    "subTitle": "BMS SERVICES",
+    "title1": "Building Management System ",
+    "title2": "Automation & Control",
+    "serviceData": [
+        {
+            "id": 1,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style1.png",
+            "title": "HVAC Automation",
+            "text": "Advanced heating, ventilation, and air conditioning control systems for optimal energy efficiency and comfort.",
+            "thumb": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 2,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style2.png",
+            "title": "Lighting Control Systems",
+            "text": "Smart lighting automation with occupancy sensors and daylight harvesting for energy optimization.",
+            "thumb": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 3,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style3.png",
+            "title": "Access Control & Security",
+            "text": "Integrated security systems with biometric access, CCTV monitoring, and alarm management.",
+            "thumb": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 4,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style4.png",
+            "title": "Energy Management",
+            "text": "Comprehensive energy monitoring and optimization systems for reduced operational costs.",
+            "thumb": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": ""
+        },
+        {
+            "id": 5,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style1.png",
+            "title": "Fire Safety Systems",
+            "text": "Advanced fire detection, suppression, and evacuation management with 24/7 monitoring.",
+            "thumb": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        },
+        {
+            "id": 6,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style2.png",
+            "title": "Smart Building Integration",
+            "text": "IoT-enabled building systems integration for unified control and data analytics.",
+            "thumb": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        },
+        {
+            "id": 7,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style3.png",
+            "title": "Building Monitoring & Analytics",
+            "text": "Real-time building performance monitoring with advanced analytics and predictive maintenance.",
+            "thumb": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        },
+        {
+            "id": 8,
+            "animation": "animate__animated animate__slideInUp",
+            "iconThumb": "service-style4.png",
+            "title": "Maintenance Management",
+            "text": "Automated maintenance scheduling and asset management systems for optimal building operations.",
+            "thumb": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+            "icon": "bi bi-arrow-right",
+            "serviceSpace": "mt-30"
+        }
+    ]
+}

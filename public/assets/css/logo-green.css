@@ -1,0 +1,28 @@
+/* Green Logo Filter for All Logos */
+.header-logo img,
+.footer-wiget-log img,
+.mobile-sidebar-logo img,
+.sidebar-logo img {
+    /* Apply green color filter to match website theme */
+    filter: sepia(1) saturate(2) hue-rotate(90deg) brightness(1.1) !important;
+}
+
+/* Ensure logo visibility on different backgrounds */
+.header-logo img {
+    background: transparent;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+/* Mobile menu logo styling - consistent green */
+.mobile-sidebar-logo img {
+    filter: sepia(1) saturate(2) hue-rotate(90deg) brightness(1.1) !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header-logo img {
+        max-height: 45px;
+        width: auto;
+    }
+}
